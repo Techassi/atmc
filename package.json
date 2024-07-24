@@ -18,6 +18,7 @@
   },
   "bin": "./dist/index.js",
   "dependencies": {
+    "@asciidoctor/core": "^3.0.4",
     "citty": "^0.1.5",
     "consola": "^3.2.3",
     "glob": "^10.3.10"
